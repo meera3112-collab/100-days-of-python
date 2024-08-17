@@ -1,3 +1,3 @@
-#DAY 1 : BAND NAME GENERATOR
-Create a greeting for your program.Ask the user for the city that they grew up in and store it in a variable.Ask the user for the name of a pet and store it in a variable.Combine the name of their city and pet and show them their band name.
+100 Days of Python Challenge 🐍
 
+Welcome to my 100 Days of Python Challenge repository! This challenge is all about learning, practicing, and mastering Python over the course of 100 days. Each day, I'll be working on a different project or problem to enhance my Python skills.
